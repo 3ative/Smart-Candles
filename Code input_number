@@ -1,0 +1,7 @@
+  candles:
+    name: Candles
+    initial: 0
+    min: 0
+    max: 100
+    step: 10
+    mode: slider

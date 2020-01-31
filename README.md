@@ -22,3 +22,6 @@ Converting Battery operated LED Candles to run in Home Assistant
  
  USB Cable
  https://amzn.to/35RR46F
+
+Watch the full tutorial video here:
+https://youtu.be/OHwBA27FR9c

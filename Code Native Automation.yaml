@@ -9,6 +9,7 @@
         entity_id:
           - light.candle_1
           - light.candle_2
+          # Add you other Candles here
         brightness_pct: "{{trigger.to_state.state}}"
         transition: 1
         effect: flicker

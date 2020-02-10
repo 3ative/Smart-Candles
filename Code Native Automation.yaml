@@ -1,0 +1,14 @@
+- alias: candle_tester
+  trigger:
+    platform: state
+    entity_id: input_number.candles
+
+  action:
+    - service: light.turn_on
+      data_template:
+        entity_id:
+          - light.candle_1
+          - light.candle_2
+        brightness_pct: "{{trigger.to_state.state}}"
+        transition: 1
+        effect: flicker

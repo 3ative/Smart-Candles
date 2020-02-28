@@ -15,7 +15,7 @@ Converting Battery operated LED Candles to run in Home Assistant
  https://amzn.to/2Zkpqg6
  
  D1 Mini
- https://amzn.to/2shuXI5
+ https://amzn.to/3ckonTi
  
  Mobile Phone charger
  https://amzn.to/34Rw66k

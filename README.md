@@ -33,4 +33,4 @@ Mobile Phone charger https://amzn.to/2vNNaz0
 
 USB Cable https://amzn.to/38HJHiA
 
-Watch the step-by-step build guide here: https://youtu.be/OHwBA27FR9c
+# Watch the step-by-step build guide here: https://youtu.be/OHwBA27FR9c

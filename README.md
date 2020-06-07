@@ -36,5 +36,4 @@ USB Cable https://amzn.to/38HJHiA
 # Watch the step-by-step build guide here: https://youtu.be/OHwBA27FR9c
 
 
-
-<a href="https://www.buymeacoffee.com/3ative" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative)

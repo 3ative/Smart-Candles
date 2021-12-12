@@ -1,0 +1,111 @@
+esphome:
+  name: 6candles
+  platform: ESP8266
+  board: d1_mini
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  fast_connect: true
+
+# Enable logging
+logger:
+
+substitutions:
+  alpha: 90%
+  intensity: 5%
+  default_transition_length: 0s
+  frequency: 1000 Hz
+
+# Enable Home Assistant API
+api:
+
+ota:
+
+light:
+  - platform: monochromatic
+    name: "Candle 1"
+    id: candle_1
+    output: candle_1_pwm
+    default_transition_length: ${default_transition_length}
+    effects:
+      - flicker:
+          name: Flicker
+          alpha: ${alpha}
+          intensity: ${intensity}
+  - platform: monochromatic
+    name: "Candle 2"
+    id: candle_2
+    output: candle_2_pwm
+    default_transition_length: ${default_transition_length}
+    effects:
+      - flicker:
+          name: Flicker
+          alpha: ${alpha}
+          intensity: ${intensity}
+  - platform: monochromatic
+    name: "Candle 3"
+    id: candle_3
+    output: candle_3_pwm
+    default_transition_length: ${default_transition_length}
+    effects:
+      - flicker:
+          name: Flicker
+          alpha: ${alpha}
+          intensity: ${intensity}
+  - platform: monochromatic
+    name: "Candle 4"
+    id: candle_4
+    output: candle_4_pwm
+    default_transition_length: ${default_transition_length}
+    effects:
+      - flicker:
+          name: Flicker
+          alpha: ${alpha}
+          intensity: ${intensity}
+  - platform: monochromatic
+    name: "Candle 5"
+    id: candle_5
+    output: candle_5_pwm
+    default_transition_length: ${default_transition_length}
+    effects:
+      - flicker:
+          name: Flicker
+          alpha: ${alpha}
+          intensity: ${intensity}
+  - platform: monochromatic
+    name: "Candle 6"
+    id: candle_6
+    output: candle_6_pwm
+    default_transition_length: ${default_transition_length}
+    effects:
+      - flicker:
+          name: Flicker
+          alpha: ${alpha}
+          intensity: ${intensity}
+
+output:
+  - platform: esp8266_pwm
+    id: candle_1_pwm
+    pin: D1
+    frequency: $frequency
+  - platform: esp8266_pwm
+    id: candle_2_pwm
+    pin: D2
+    frequency: $frequency
+  - platform: esp8266_pwm
+    id: candle_3_pwm
+    pin: D3
+    frequency: $frequency
+  - platform: esp8266_pwm
+    id: candle_4_pwm
+    pin: D5
+    frequency: $frequency
+  - platform: esp8266_pwm
+    id: candle_5_pwm
+    pin: D6
+    frequency: $frequency
+  - platform: esp8266_pwm
+    id: candle_6_pwm
+    pin: D7
+    frequency: $frequency

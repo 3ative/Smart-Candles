@@ -4,7 +4,7 @@ esphome:
   board: d1_mini
 
 wifi:
-  ssid: !secret ssid
+  ssid: !secret wifi_ssid
   password: !secret wifi_password
   fast_connect: true
 

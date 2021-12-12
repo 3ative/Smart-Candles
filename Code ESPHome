@@ -1,3 +1,4 @@
+```yaml
 esphome:
   name: 6candles
   platform: ESP8266
@@ -109,3 +110,4 @@ output:
     id: candle_6_pwm
     pin: D7
     frequency: $frequency
+```

@@ -1,6 +1,14 @@
 # 'Smart' Candles Project
 Converting Battery operated LED Candles to run in Home Assistant
 
+Grab all the 'YAML' files listed above:
+
+> - Code ESPHome.yaml
+> - Code Native Automation.yaml
+> - Code input_number
+> - Node_Red_Flow.json
+
+
 # Parts List UK:
 
 Candles (pack of 6) https://amzn.to/2PS58rl

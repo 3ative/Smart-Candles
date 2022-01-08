@@ -1,4 +1,4 @@
-# Smart-Candles
+# 'Smart' Candles Project
 Converting Battery operated LED Candles to run in Home Assistant
 
 # Parts List UK:

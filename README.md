@@ -43,6 +43,7 @@ USB Cable https://amzn.to/38HJHiA
 
 # Watch the step-by-step build guide here: https://youtu.be/OHwBA27FR9c
 
+___
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|

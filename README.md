@@ -43,10 +43,8 @@ USB Cable https://amzn.to/38HJHiA
 
 # Watch the step-by-step build guide here: https://youtu.be/OHwBA27FR9c
 
-
-🎁 Found this useful or want to say 'thanks' and support my efforts...
-
-[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative) **And leave a me a message to let me know.**  ❤
-
-🍺 CHEERS! 👍
+#### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
+| Buy me a Coffee | PATREON |
+|-----------------|---------|
+| https://www.buymeacoffee.com/3ative | https://www.patreon.com/3ative |
 

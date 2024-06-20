@@ -21,6 +21,7 @@ substitutions:
 api:
 
 ota:
+  platform: esphome
 
 light:
   - platform: monochromatic

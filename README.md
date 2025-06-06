@@ -11,41 +11,28 @@ Grab all the 'YAML' files listed above:
 
 # Parts List UK:
 
-Candles (pack of 6) https://amzn.to/2PS58rl
-
-Candles (pack of 12) https://amzn.to/2vplBLC
-
-Red & Black Wire https://amzn.to/2ZkN2Ry
-
-2 Pin JST Connectors https://amzn.to/2Zkpqg6
-
-D1 Mini https://amzn.to/2Q5I9sq
-
-Mobile Phone charger https://amzn.to/34Rw66k
-
-USB Cable https://amzn.to/35RR46F
+- Candles (pack of 6) https://amzn.to/2PS58rl
+- Candles (pack of 12) https://amzn.to/2vplBLC
+- Red & Black Wire https://amzn.to/2ZkN2Ry
+- 2 Pin JST Connectors https://amzn.to/2Zkpqg6
+- D1 Mini https://amzn.to/2Q5I9sq
+- Mobile Phone charger https://amzn.to/34Rw66k
+- USB Cable https://amzn.to/35RR46F
 
 # Parts List US:
-
-Candles (pack of 6) https://amzn.to/335m4Q3
-
-Candles (pack of 12) https://amzn.to/38AOjXS
-
-Red & Black Wire https://amzn.to/2U8sB8D
-
-2 Pin JST Connectors https://amzn.to/2IEa1Qh
-
-D1 Mini https://amzn.to/38FtxGD
-
-Mobile Phone charger https://amzn.to/2vNNaz0
-
-USB Cable https://amzn.to/38HJHiA
-
+- Candles (pack of 6) https://amzn.to/335m4Q3
+- Candles (pack of 12) https://amzn.to/38AOjXS
+- Red & Black Wire https://amzn.to/2U8sB8D
+- 2 Pin JST Connectors https://amzn.to/2IEa1Qh
+- D1 Mini https://amzn.to/38FtxGD
+- Mobile Phone charger https://amzn.to/2vNNaz0
+- USB Cable https://amzn.to/38HJHiA
+> 💡 **Note:** As an Amazon Associate I earn from qualifying purchases. Using these links provides small monetary support for my channel at no extra cost to you. 💖
 # Watch the step-by-step build guide here: https://youtu.be/OHwBA27FR9c
 
-___
-#### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
+---
+### 🤝 Found this useful, want to say 'Thanks' and support my efforts. CHEERS🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
-| https://www.buymeacoffee.com/3ative | https://www.patreon.com/3ative |
-
+| [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow.svg?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/3ative) | [![Patreon](https://img.shields.io/badge/Patreon-support-red.svg?style=flat-square&logo=patreon)](https://www.patreon.com/3ative) |
+---
